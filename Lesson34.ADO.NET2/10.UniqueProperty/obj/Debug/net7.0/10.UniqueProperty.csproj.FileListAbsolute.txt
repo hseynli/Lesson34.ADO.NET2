@@ -1,0 +1,14 @@
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\bin\Debug\net7.0\10.UniqueProperty.exe
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\bin\Debug\net7.0\10.UniqueProperty.deps.json
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\bin\Debug\net7.0\10.UniqueProperty.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\bin\Debug\net7.0\10.UniqueProperty.dll
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\bin\Debug\net7.0\10.UniqueProperty.pdb
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\obj\Debug\net7.0\10.UniqueProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\obj\Debug\net7.0\10.UniqueProperty.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\obj\Debug\net7.0\10.UniqueProperty.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\obj\Debug\net7.0\10.UniqueProperty.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\obj\Debug\net7.0\10.UniqueProperty.dll
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\obj\Debug\net7.0\refint\10.UniqueProperty.dll
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\obj\Debug\net7.0\10.UniqueProperty.pdb
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\obj\Debug\net7.0\10.UniqueProperty.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ADO.NET2\10.UniqueProperty\obj\Debug\net7.0\ref\10.UniqueProperty.dll

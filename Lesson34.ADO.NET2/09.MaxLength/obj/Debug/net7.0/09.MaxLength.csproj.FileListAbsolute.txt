@@ -1,0 +1,14 @@
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\bin\Debug\net7.0\09.MaxLength.exe
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\bin\Debug\net7.0\09.MaxLength.deps.json
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\bin\Debug\net7.0\09.MaxLength.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\bin\Debug\net7.0\09.MaxLength.dll
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\bin\Debug\net7.0\09.MaxLength.pdb
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\obj\Debug\net7.0\09.MaxLength.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\obj\Debug\net7.0\09.MaxLength.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\obj\Debug\net7.0\09.MaxLength.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\obj\Debug\net7.0\09.MaxLength.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\obj\Debug\net7.0\09.MaxLength.dll
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\obj\Debug\net7.0\refint\09.MaxLength.dll
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\obj\Debug\net7.0\09.MaxLength.pdb
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\obj\Debug\net7.0\09.MaxLength.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ADO.NET2\09.MaxLength\obj\Debug\net7.0\ref\09.MaxLength.dll

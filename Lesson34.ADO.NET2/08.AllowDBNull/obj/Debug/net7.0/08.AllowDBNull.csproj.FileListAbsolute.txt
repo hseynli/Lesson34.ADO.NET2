@@ -1,0 +1,14 @@
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\bin\Debug\net7.0\08.AllowDBNull.exe
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\bin\Debug\net7.0\08.AllowDBNull.deps.json
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\bin\Debug\net7.0\08.AllowDBNull.runtimeconfig.json
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\bin\Debug\net7.0\08.AllowDBNull.dll
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\bin\Debug\net7.0\08.AllowDBNull.pdb
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\obj\Debug\net7.0\08.AllowDBNull.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\obj\Debug\net7.0\08.AllowDBNull.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\obj\Debug\net7.0\08.AllowDBNull.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\obj\Debug\net7.0\08.AllowDBNull.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\obj\Debug\net7.0\08.AllowDBNull.dll
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\obj\Debug\net7.0\refint\08.AllowDBNull.dll
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\obj\Debug\net7.0\08.AllowDBNull.pdb
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\obj\Debug\net7.0\08.AllowDBNull.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson34.ADO.NET2\08.AllowDBNull\obj\Debug\net7.0\ref\08.AllowDBNull.dll
